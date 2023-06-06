@@ -1,3 +1,1 @@
-import './index.scss'
-
-console.log('index.js')
+import './scss/index.scss'
